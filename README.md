@@ -4,7 +4,7 @@ A responsive HTML & CSS template built as a front-end practice project based on 
 
 ## 📺 Live Demo
 
-[🔗 View the Demo](https://a7medhazem.github.io/HTML_and_CSS_Template_Two/)
+[🔗 View the Demo](https://a7medhazem.github.io/HTML_and_CSS_Template_Two/).
 
 ## 🛠️ Technologies Used
 
